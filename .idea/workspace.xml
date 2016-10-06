@@ -32,14 +32,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="servidor.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="servidor.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/servidor.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="421">
+            <state relative-caret-position="425">
               <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
                 <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,13 +96,13 @@
         <option value="$PROJECT_DIR$/chat/chat.css" />
         <option value="$PROJECT_DIR$/ratchet/bin/chat-server.php" />
         <option value="$PROJECT_DIR$/arquivo.txt" />
-        <option value="$PROJECT_DIR$/README" />
         <option value="$PROJECT_DIR$/javascript/script.js" />
         <option value="$PROJECT_DIR$/sql" />
         <option value="$PROJECT_DIR$/arquivo.xml" />
         <option value="$PROJECT_DIR$/cliente.php" />
         <option value="$PROJECT_DIR$/servidor.php" />
         <option value="$PROJECT_DIR$/resposta.php" />
+        <option value="$PROJECT_DIR$/README" />
       </list>
     </option>
   </component>
@@ -228,12 +238,12 @@
       <workItem from="1475538220146" duration="356000" />
       <workItem from="1475620989264" duration="18469000" />
       <workItem from="1475668704185" duration="565000" />
-      <workItem from="1475719235665" duration="4569000" />
+      <workItem from="1475719235665" duration="5209000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="57709000" />
+    <option name="totallyTimeSpent" value="58349000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
@@ -428,13 +438,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
@@ -536,11 +539,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/servidor.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="421">
+        <state relative-caret-position="425">
           <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
           <folding>
             <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
