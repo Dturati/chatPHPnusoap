@@ -7,7 +7,7 @@ $stmt = $con->query("SELECT * FROM msg");
 ?>
         <table style="width:100%">
             <tr>
-                <td><?=$row['msg']?></td>
+                <td><?=base64_decode($row['msg'])?></td>
             </tr>
         </table>
 <?php endwhile; ?>

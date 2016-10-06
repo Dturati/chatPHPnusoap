@@ -5,11 +5,12 @@
 require_once ('nusoap-0.9.5/lib/nusoap.php');
 
 $cliente = new nusoap_client("http://192.168.15.11:8081/servidor.php?wsdl");
-
+$cliente->wsdl = array("useMTOM" => TRUE);
 $nome = $_GET['nome'];
 
 if($nome != "") {
-    $parametros = array('menssagem' => $nome);
+    $base64 = base64_encode($nome);
+    $parametros = array('menssagem' => $base64);
 }
 
 $resultado = $cliente->call('exemplo', $parametros);

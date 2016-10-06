@@ -22,14 +22,47 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
+      <file leaf-file-name="arquivo.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/arquivo.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="517" selection-start-line="0" selection-start-column="517" selection-end-line="0" selection-end-column="517" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="servidor.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/servidor.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            <state relative-caret-position="421">
+              <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
               <folding>
-                <marker date="1475690419595" expanded="true" signature="1090:1123" ph="INSERT INTO msg... " />
+                <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="resposta.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resposta.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+              <folding>
+                <element signature="e#176#194#0#HTML" expanded="true" />
+                <marker date="1475723787740" expanded="true" signature="94:111" ph="SELECT * FRO... msg" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cliente.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/cliente.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,13 +86,13 @@
         <option value="$PROJECT_DIR$/chat/chat.css" />
         <option value="$PROJECT_DIR$/ratchet/bin/chat-server.php" />
         <option value="$PROJECT_DIR$/arquivo.txt" />
-        <option value="$PROJECT_DIR$/arquivo.xml" />
         <option value="$PROJECT_DIR$/README" />
-        <option value="$PROJECT_DIR$/resposta.php" />
-        <option value="$PROJECT_DIR$/servidor.php" />
-        <option value="$PROJECT_DIR$/cliente.php" />
         <option value="$PROJECT_DIR$/javascript/script.js" />
         <option value="$PROJECT_DIR$/sql" />
+        <option value="$PROJECT_DIR$/arquivo.xml" />
+        <option value="$PROJECT_DIR$/cliente.php" />
+        <option value="$PROJECT_DIR$/servidor.php" />
+        <option value="$PROJECT_DIR$/resposta.php" />
       </list>
     </option>
   </component>
@@ -195,18 +228,18 @@
       <workItem from="1475538220146" duration="356000" />
       <workItem from="1475620989264" duration="18469000" />
       <workItem from="1475668704185" duration="565000" />
-      <workItem from="1475719235665" duration="1746000" />
+      <workItem from="1475719235665" duration="4569000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="54886000" />
+    <option name="totallyTimeSpent" value="57709000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532943" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.116398245" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -256,7 +289,7 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1475690419595" expanded="true" signature="1090:1123" ph="INSERT INTO msg... " />
+            <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
           </folding>
         </state>
       </provider>
@@ -265,12 +298,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="666">
           <caret line="37" column="71" selection-start-line="37" selection-start-column="71" selection-end-line="37" selection-end-column="71" />
-          <folding>
-            <marker date="1475719965216" expanded="true" signature="613:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="620:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="632:661" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="703:769" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -278,6 +306,10 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="144">
           <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+          <folding>
+            <element signature="e#176#194#0#HTML" expanded="true" />
+            <marker date="1475723787740" expanded="true" signature="94:111" ph="SELECT * FRO... msg" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -302,7 +334,7 @@
         <state relative-caret-position="522">
           <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
           <folding>
-            <marker date="1475690419595" expanded="true" signature="1090:1123" ph="INSERT INTO msg... " />
+            <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
           </folding>
         </state>
       </provider>
@@ -311,12 +343,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-          <folding>
-            <marker date="1475719965216" expanded="true" signature="613:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="620:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="632:661" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="703:769" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -341,7 +368,7 @@
         <state relative-caret-position="522">
           <caret line="29" column="11" selection-start-line="29" selection-start-column="11" selection-end-line="29" selection-end-column="11" />
           <folding>
-            <marker date="1475690419595" expanded="true" signature="1090:1123" ph="INSERT INTO msg... " />
+            <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
           </folding>
         </state>
       </provider>
@@ -350,12 +377,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="684">
           <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-          <folding>
-            <marker date="1475719965216" expanded="true" signature="613:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="620:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="632:661" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="703:769" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -413,46 +435,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/arquivo.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="518" selection-start-line="0" selection-start-column="518" selection-end-line="0" selection-end-column="518" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resposta.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/javascript/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
           <caret line="30" column="30" selection-start-line="30" selection-start-column="30" selection-end-line="30" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cliente.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <marker date="1475719965216" expanded="true" signature="613:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="620:680" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="632:661" ph="..." />
-            <marker date="1475719965216" expanded="true" signature="703:769" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/class.soapclient.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="12" column="51" selection-start-line="12" selection-start-column="50" selection-end-line="12" selection-end-column="51" />
           <folding />
         </state>
       </provider>
@@ -465,22 +451,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/nusoap.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="191" column="73" selection-start-line="191" selection-start-column="72" selection-end-line="191" selection-end-column="73" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/class.soap_server.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-558">
-          <caret line="8" column="32" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -489,12 +459,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/class.soapclient.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="42" column="8" selection-start-line="42" selection-start-column="8" selection-end-line="42" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/arquivo.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="517" selection-start-line="0" selection-start-column="517" selection-end-line="0" selection-end-column="517" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/nusoap.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="4505" column="13" selection-start-line="4505" selection-start-column="13" selection-end-line="4505" selection-end-column="13" />
+          <folding>
+            <marker date="1272314288000" expanded="true" signature="62830:63005" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="63182:63314" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="184125:187589" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="184131:187336" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="184202:185567" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="184661:184706" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="184718:184937" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="184951:185136" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="185151:185386" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="185623:187326" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="185680:186403" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="186487:186818" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="186821:186941" ph="//..." />
+            <marker date="1272314288000" expanded="true" signature="186968:187070" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="187130:187217" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="187168:187213" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="187237:187307" ph="{...}" />
+            <marker date="1272314288000" expanded="true" signature="187345:187589" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="187367:187589" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="187447:187589" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="187455:187580" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="187798:187884" ph="..." />
+            <marker date="1272314288000" expanded="true" signature="188731:188764" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nusoap-0.9.5/lib/class.soap_server.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-817">
+          <caret line="1047" column="13" selection-start-line="1047" selection-start-column="13" selection-end-line="1047" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cliente.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resposta.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+          <folding>
+            <element signature="e#176#194#0#HTML" expanded="true" />
+            <marker date="1475723787740" expanded="true" signature="94:111" ph="SELECT * FRO... msg" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/servidor.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        <state relative-caret-position="421">
+          <caret line="45" column="33" selection-start-line="45" selection-start-column="33" selection-end-line="45" selection-end-column="33" />
           <folding>
-            <marker date="1475690419595" expanded="true" signature="1090:1123" ph="INSERT INTO msg... " />
+            <marker date="1475723763585" expanded="true" signature="1142:1175" ph="INSERT INTO msg... " />
           </folding>
         </state>
       </provider>

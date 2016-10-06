@@ -5,8 +5,9 @@ require_once ('nusoap-0.9.5/lib/nusoap.php');
 $servidor = new nusoap_server();
 
 $servidor->configureWSDL('urn:Servidor');
-$servidor->wsdl->schemaTagetNamespace = 'urn:Servidor';
 
+$servidor->wsdl->schemaTagetNamespace = 'urn:Servidor';
+$servidor->configureWSDL(array("useMTOM" => TRUE));
 $servidor->register(
   'exemplo',
     array('menssagem' => 'xsd:string'),
