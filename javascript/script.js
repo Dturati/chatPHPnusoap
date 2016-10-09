@@ -3,7 +3,7 @@
  */
 
 var websocket = function (){
-    var conn = new WebSocket('ws://192.168.15.11:8080');
+    var conn = new WebSocket('ws://192.168.1.62:8080');
 
     conn.onopen = function (e)
     {
@@ -14,7 +14,7 @@ var websocket = function (){
         console.log(e.data);
         //resposta.innerHTML +=  e.data + "\n";
         $.ajax({
-             url: 'http://192.168.15.11/resposta.php',
+             url: 'http://192.168.1.62/resposta.php',
              method :'GET',
              dataType : 'html', //dados vindos do servidor
 
@@ -28,7 +28,7 @@ var websocket = function (){
 }
 
 $.ajax({
-    url: 'http://192.168.15.11/resposta.php',
+    url: 'http://192.168.1.62/resposta.php',
     method :'GET',
     dataType : 'html', //dados vindos do servidor
 

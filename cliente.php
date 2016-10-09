@@ -4,7 +4,7 @@
 
 require_once ('nusoap-0.9.5/lib/nusoap.php');
 
-$cliente = new nusoap_client("http://192.168.15.11:8081/servidor.php?wsdl");
+$cliente = new nusoap_client("http://192.168.1.62:8081/servidor.php?wsdl");
 $cliente->wsdl = array("useMTOM" => TRUE);
 $nome = $_GET['nome'];
 
